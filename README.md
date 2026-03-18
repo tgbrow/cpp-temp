@@ -1,6 +1,6 @@
 Build:
 ```
-clang++ -o out/main main.cpp
+./build.sh
 ```
 
 Run:
